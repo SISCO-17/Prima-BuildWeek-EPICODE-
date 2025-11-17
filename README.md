@@ -47,6 +47,10 @@ Nella repository sono inclusi i documenti ufficiali di progetto:
 * `Presentazione.pdf`: Overview esecutiva del progetto.
 
 ## 👥 Il Team
-* [Tuo Nome]
-* [Nome Collega 1]
-* [Nome Collega 2]  
+* Francesco Livi
+
+* Sergio Astolfi
+* Laura Nastasi
+* Pierantonio Miglietta
+* Matteo Barberini
+* Tommaso Lucchesi  
